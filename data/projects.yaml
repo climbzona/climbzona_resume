@@ -1,0 +1,33 @@
+projects:
+- title: "Facebook - Partner Centers"
+  subtitle: "Global Marketing"
+  # date: "2023"
+  details: |
+    Each Partner Center is a large scale, customizable brand experience environment punctuated by interactive installations.
+
+- title: "Intagram Experiences"
+  subtitle: "Immersive Activations"
+  # link: "https://github.com/jane-smith/chat-app"
+  # date: "2022"
+  details: |
+    Experiantial interactive experiences - NYC, San Francisco, Tokyo
+#   links:
+#   - title: View on GitHub
+#     url: https://github.com/jane-smith/chat-app
+#     icon: fab fa-github
+#   - title: Live Demo
+#     url: https://chat-demo.janesmith.dev
+#     icon: fas fa-external-link-alt
+
+# - title: "Task Management API"
+#   subtitle: "REST API with GraphQL"
+#   link: "https://github.com/jane-smith/task-api"
+#   date: "2021"
+#   details: |
+#     RESTful API with GraphQL endpoint for task management system.
+#     Features JWT authentication, role-based permissions, and automated testing.
+#     Deployed on Heroku with PostgreSQL database.
+#   links:
+#   - title: API Documentation
+#     url: https://task-api-docs.janesmith.dev
+#     icon: fas fa-book

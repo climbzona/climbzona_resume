@@ -1,0 +1,92 @@
+about:
+  name: Gabriel Lucero
+  tagline: Technical Program Manager
+  phone: "(602) 481-7273"        # Optional
+  email: lucero.gabriel@gmail.com       # Optional
+  linkedin: gabelucero             # Optional
+  links:
+    # Add any link as you like.
+    - title: cv-gabelucero.com
+      url: https://cv.gabelucero.com
+      icon: fab fa-linkedin
+    - title: jane-smith
+      url: https://github.com/jane-smith
+      icon: fab fa-github
+    - title: Portfolio
+      url: https://janesmith.dev
+      icon: fas fa-globe
+  details: |
+    Senior Technical Program Manager with 20 years of experience driving large-scale, complex programs at Meta, Uber, and
+    other global technology leaders. Proven track record managing cross-functional portfolios exceeding $65M across 40+
+    countries, delivering 0→1 programs in ambiguous environments. Consistent top performer: Top 2% at Uber, multiple Greatly Exceeds ratings at Meta. Currently completing a
+    Master of Science in Artificial Intelligence (4.0 GPA, U of A, 2026), bridging deep execution experience with applied AI and
+    data-driven program strategy.
+
+
+# skills:
+#  - groupName: Frontend Technologies
+#    list:
+#      - React - Vue.js - Angular
+#      - TypeScript - JavaScript - HTML5/CSS3
+
+  # - groupName: Backend & Infrastructure
+  #   list:
+  #     - Node.js - Python - Java
+  #     - AWS - Docker - Kubernetes
+  #     - PostgreSQL - MongoDB - Redis
+
+  # - groupName: Tools & Practices
+  #   list:
+  #     - Git - CI/CD - Terraform
+  #     - Jest - Cypress - Jenkins
+
+interests:
+  - Cloud Computing
+  - AI Architechture
+  - Tech Mentoring
+  - Open Source Contributions
+
+languages:
+  - name: English
+    level: Native
+
+  # - name: Spanish
+  #  level: Conversational
+  #  certificates:
+  #    - "DELE B2 - 2020"
+
+  #- name: French
+  #  level: Basic
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Celebrating Cultural Values"
+    # date: "2023"
+    subtitle: "Uber - inaugural recipient"
+    details: |
+      Recognized for outstanding contribution to company-wide global initiatives.
+    #links:
+    #  - title: Award Details
+    #    url: https://example.com/awards/2023
+    #    icon: fas fa-trophy
+    #    prefix: "View "
+    #  - title: Press Release
+    #    url: https://example.com/news/innovation-awards
+    #    icon: fas fa-newspaper
+    #    prefix: "Read "
+
+certificates:
+  - title: "Project Management Professional (PMP)"
+  #  subtitle: Amazon Web Services
+  #  date: "2023"
+  #  link: https://aws.amazon.com/certification/ # This link will be on title level.
+
+  - title: "PMI Agile Certified Practitioner (PMI-ACP)"
+  #  subtitle: Cloud Native Computing Foundation
+  #  date: "2022"
+  #  link: https://www.cncf.io/certification/cka/
+
+  - title: "Google Agile Project Management"
+  #  subtitle: Google Cloud Platform
+  #  date: "2021"
+  #  link: https://cloud.google.com/certification/

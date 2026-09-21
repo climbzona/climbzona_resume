@@ -1,0 +1,35 @@
+- company: Meta
+  roles:
+    - role: Senior Program Manager
+      details: |
+        Directed large-scale enterprise operations and infrastructure delivery across Meta, partnering with dozens of cross-functional and engineering leads to launch secure FinTech platforms and critical compliance infrastructure. Streamlined program intake workflows and enterprise vendor management, yielding consistent 40%–50% process efficiencies and substantial recurring cost reductions. Championed organizational maturity by instituting org-wide SOPs, canonical documentation, and risk management standards across diverse product organizations.
+      date: 06.2017 - 06.2023
+
+- company: Uber
+  page: 1
+  roles:
+    - role: Technical Program Manager
+      # tools: React, Node.js, PostgreSQL, AWS
+      details: |
+        Managed complex global infrastructure programs supporting Uber’s autonomous vehicle initiatives (ATG) and enterprise operations across 11 Centers of Excellence spanning four continents. Orchestrated full-lifecycle deployments, including telecommunications, circuit and fiber provisioning, and managed service provider oversight, in highly challenging remote and urban jurisdictions. Instituted standardized deployment frameworks, change management protocols, and KPI tracking across a cross-functional team of 15 technicians, receiving Uber’s Celebrating Cultural Values award.
+      date: 04.2015 - 05.2017
+
+    # - role: Junior Frontend Developer
+    #   tools: JavaScript, HTML5, CSS3, Vue.js
+    #   date: 01.2018 - 08.2019
+    #   details: |
+    #     Built interactive user interfaces for internal dashboard applications.
+    #     Participated in Agile development process and daily stand-ups.
+    #     Implemented accessibility standards achieving WCAG 2.1 AA compliance.
+
+# - company: StartupTech Inc.
+#   page: 2
+#   roles:
+#     - role: Software Developer Intern
+#       tools: Python, Flask, MongoDB, Git
+#       details: |
+#         Contributed to backend API development for mobile application serving 50k+ users.
+#         Implemented automated testing suite achieving 85% code coverage.
+#         Participated in code reviews and followed test-driven development practices.
+#         Collaborated with cross-functional team using Scrum methodology.
+#       date: 06.2017 - 12.2017
