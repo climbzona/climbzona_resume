@@ -20,6 +20,13 @@ main.paper {
     // to fit more text on a single page.
     //line-height: 1.5;
   }
+
+  .section-title {
+    font-size: 1.35rem;
+    line-height: 1.2;
+    border-left: 0.2rem solid currentColor;
+    padding-left: 0.5rem;
+  }
 }
 
 .job_title {

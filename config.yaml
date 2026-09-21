@@ -53,8 +53,8 @@ params:
   favicon: true                 # Show favicon
 
   # Custom CSS Files (optional)
-  # css:
-  # - custom.scss               # Your custom styles - copy assets/ folder from exampleSite to customize
+  css:
+  - custom.scss               # Your custom styles - copy assets/ folder from exampleSite to customize
   # - print_urls.scss           # Uncomment to show URLs when printing
 
   # ========================================
@@ -105,8 +105,8 @@ params:
       side: false                   # Show sidebar on second page
 
       features:
-        - feature: experience
-          title: Experience (Cont.) # Continue experience from page 1
+        # - feature: experience
+        #   title: Experience (Cont.) # Continue experience from page 1
 
         - feature: projects         # Projects from data/projects.yaml
           collection: projects      # Specify data source (defaults to feature name)
