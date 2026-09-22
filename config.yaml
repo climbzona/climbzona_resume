@@ -98,27 +98,9 @@ params:
 
         - feature: experience       # Work experience from data/experience.yaml
 
-    # ========================================
-    # PAGE 2: Additional Information (Optional)
-    # ========================================
-    - header: true                  # Repeat header on second page
-      side: false                   # Show sidebar on second page
-
-      features:
-        # - feature: experience
-        #   title: Experience (Cont.) # Continue experience from page 1
-
         - feature: projects         # Projects from data/projects.yaml
           collection: projects      # Specify data source (defaults to feature name)
 
-        # - feature: publications     # Academic publications
-        #   title: Academic Studies   # Rename section title
-        #   style: IEEE               # Style: IEEE, APA, or TitleFirst[.Bold][.Author][.MultiLine]
-        #                             #   keys within brackets are optional.
-        #                             #   Example: TitleFirst, TitleFirst.Bold, TitleFirst.MultiLine, TitleFirst.Bold.Author.MultiLine
-    - header: true
-      side: false
-      features:
         - feature: awards           # Awards and honors
 
         - feature: certificates     # Professional certifications
@@ -127,6 +109,7 @@ params:
         - feature: interests        # You can repeat a section.
           widget: word-list
           style: list
+
   # ========================================
   # SECTION-SPECIFIC SETTINGS
   # ========================================

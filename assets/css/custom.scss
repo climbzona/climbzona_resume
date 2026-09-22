@@ -29,11 +29,25 @@ main.paper {
   }
 }
 
+@media screen {
+  main.paper {
+    height: auto;
+    min-height: 297mm;
+  }
+}
+
 .job_title {
   // font-style: italic;
 }
 
 @media print {
+  .paper, main.paper {
+    height: auto;
+    min-height: 297mm;
+    overflow: visible;
+    page-break-after: auto;
+  }
+
   a {
     // use if you want to print the url
     &:not(.non-existing)::after {
